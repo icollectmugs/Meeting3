@@ -1,0 +1,16 @@
+h1{
+    color: #20a9f9;
+    font-family: serif;
+}
+h2:nth-of-type(1){
+    color:hsl(84, 87%, 32%);
+    font-family: sans-serif;
+}
+h2:nth-of-type(2){
+    color:hsl(84, 82%, 29%);
+    font-family: cursive;
+}
+h2:nth-of-type(3){
+    color:#8de20d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
